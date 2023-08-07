@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Next basic API with jwt implementation 
 
 ```bash
-git clone 
+git clone https://github.com/Isfhan/next-basic-API-with-jwt.git
 ```
 
 Install dependencies 
